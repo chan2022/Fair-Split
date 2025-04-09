@@ -3,7 +3,7 @@
 Fair-Split is a tool designed to make splitting expenses between friends truly fair, especially in countries where tax and tip are calculated after the subtotal. Whether you're sharing dinner, groceries, or event costs, Fair-Split helps break down exactly who owes what. Down to the item and tax level. <br><br>
 
 
-💡 Why Fair-Split? <br><br>
+💡 **Why Fair-Split?** <br><br>
 Example Scenario: <br>
 
     friend "A" orders 1 item, friend "B" orders 3 and friend "C" orders 2.<br>
@@ -13,7 +13,7 @@ Example Scenario: <br>
 Fair-Split handles all of that. It ensures that everyone pays their fair share! Not a cent more, not a cent less. <br><br>
 
 
-🧮 How It Works (Planned)
+🧮 **How It Works (Planned)**
   - 🧾 Itemized Input : Enter each item and who paid for what
 
   - 🧑‍🤝‍🧑 Custom Group Splits : Assign items to people (can split one item between multiple people)
@@ -31,7 +31,7 @@ EXAMPLE: <br>
 
 <br>
 
-🛠️ Status
+🛠️ **Status** <br>
 This is currently in the idea and planning stage! Coming soon!
 
 
