@@ -23,7 +23,12 @@ Fair-Split handles all of that. It ensures that everyone pays their fair share! 
   - 📱 Cross-platform : Web-based with mobile-friendly design
 
   - 🔁 Repayment Summary : Tells you who owes who and how much
-    
+
+ <br>
+ 
+EXAMPLE: <br>
+<img src="https://github.com/user-attachments/assets/99df08e9-9aaf-4127-9f91-f93b98ab8575" width="300"/>
+
 <br>
 
 🛠️ Status
